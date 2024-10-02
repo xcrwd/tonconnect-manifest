@@ -1,1 +1,1 @@
-{"url": "https://submit.xcrwd.io/","name": "XCRWD submit","iconUrl": "https://submit.xcrwd.io/assets/poweredbyxcrwd--eVi4W58.png"}
+{"url": "https://app.xcrwd.io/","name": "XCRWD app","iconUrl": "https://submit.xcrwd.io/assets/poweredbyxcrwd--eVi4W58.png"}
